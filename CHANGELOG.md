@@ -1,4 +1,7 @@
 # Changelog
+## 0.8.0+1
+- A longer description for pub.dev scores
+
 ## 0.8.0
 - Forked from: https://github.com/indiealexh/dart_bulma_sass
 - Update bulma to 0.8.0
