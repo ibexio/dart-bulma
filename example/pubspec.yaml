@@ -7,7 +7,7 @@ environment:
   sdk: '>=2.7.0 <3.0.0'
 
 dependencies:
-bulma_sass: ^0.8.0
+bulma: ^0.8.0
 
 dev_dependencies:
   build_runner: ^1.6.0

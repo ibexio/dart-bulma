@@ -1,4 +1,7 @@
 # Changelog
+## 0.8.0+2
+- Fixed bulma dependency in example
+
 ## 0.8.0+1
 - A longer description for pub.dev scores
 
