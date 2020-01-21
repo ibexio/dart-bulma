@@ -1,7 +1,11 @@
 # Changelog
 
+## 0.8.0+4
+- Added dart doc comments to bulma library
+- Updated example with latest version
+
 ## 0.8.0+3
-- Fixed 'No valid SDK' error.
+- Fixed 'No valid SDK' error
 
 ## 0.8.0+2
 - Fixed bulma dependency in example
