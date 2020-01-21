@@ -1,7 +1,7 @@
 name: bulma
 description: 'The Bulma flexbox CSS framework converted to scss format in a dart
 package.'
-version: 0.8.0+2
+version: 0.8.0+3
 homepage: https://github.com/ibexio/dart-bulma
 
 environment:
